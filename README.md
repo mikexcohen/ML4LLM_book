@@ -6,8 +6,8 @@ Code repository for the book "50 ML projects to understand LLMs: Investigate tra
 
 This repository contains all Python code and Jupyter notebooks for the 50 projects in the book. Each project includes:
 
-- **Helper notebook**: Incomplete code with guidance to work through the project yourself
-- **Solutions notebook**: Complete, working implementation with detailed explanations
+- **Helper notebook**: Incomplete code to work through the projects yourself (hints and guidance are in the book).
+- **Solutions notebook**: Complete, working implementation corresponding to the detailed explanations in the book.
 
 All code runs on Google Colab, so you don't need to install anything locally or manage library configurations.
 
@@ -27,6 +27,8 @@ Each project teaches skills in three areas: machine learning techniques, LLM mec
 ## Overview of projects, ML skills, and LLM concepts
 
 [Check out the spreadsheet for detailed info](https://docs.google.com/spreadsheets/d/1kPiFzCYat-gfjuZthXpLyJ1TZtIemYl-BL18rg37KhA/edit?usp=sharing)
+
+[Check the pdf](https://github.com/mikexcohen/ML4LLM_book/blob/main/ml4llm_TOC_ch1.pdf) for table of contents and chapter 1 (introductions).
 
 ## Purchase the Book
 
