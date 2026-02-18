@@ -11,6 +11,11 @@ This repository contains all Python code and Jupyter notebooks for the 50 projec
 
 All code runs on Google Colab, so you don't need to install anything locally or manage library configurations.
 
+
+<img width="555" src="https://github.com/user-attachments/assets/c6b19761-b095-435b-9463-6942b4612de7" />
+
+
+
 ## About the Book
 
 Learn how LLMs like GPT and BERT actually work by applying machine learning techniques to their internal activations. This book takes a unique approach: rather than building LLMs from scratch or using them via APIs, you'll investigate their mechanisms by treating hidden states, attention patterns, and embeddings as data to analyze.
@@ -38,6 +43,9 @@ Each project teaches skills in three areas: machine learning techniques, LLM mec
 | PDF | [Gumtree](https://mikexcohen.gumroad.com/l/ml4llms) |
 
 No installation required — all notebooks run directly in Google Colab.
+
+<img src="https://github.com/user-attachments/assets/cee28a3b-8c27-475c-af09-5b16a40bb695" />
+
 
 ## Prerequisites
 
